@@ -12,9 +12,6 @@ A simple full-stack web application for posting and browsing rental housing list
 
 ---
 
-
----
-
 ## How to Run Locally
 
 Prerequisites:
