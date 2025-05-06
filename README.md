@@ -12,18 +12,31 @@ A simple full-stack web application for posting and browsing rental housing list
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend:**
-- React (with React Router)
-- Fetch API for HTTP requests
-
-**Backend:**
-- Node.js with Express
-- SQLite (via `sqlite3`)
 
 ---
 
-## 📁 Folder Structure
+## How to Run Locally
 
-housing-app/ ├── backend/ # Express + SQLite backend │ └── server.js │ └── housing.db # Auto-created SQLite database file ├── housing-client/ # React frontend │ └── src/ │ ├── App.js │ ├── ListingForm.js │ └── ListingList.js
+> Prerequisites:
+> - Node.js & npm installed
+
+---
+
+### Step 1: Clone the Repo
+
+Commands:
+
+#### Cloning the repo
+git clone https://github.com/YOUR_USERNAME/Housing-app.git
+cd Housing-app
+
+#### Setting up backend
+cd backend
+npm install
+node server.js
+
+#### Setting up frontend
+cd frontend
+npm install
+npm start
+
