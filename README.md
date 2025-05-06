@@ -1,18 +1,12 @@
-# 🏡 Full-Stack Housing Listings Web App
+# Full-Stack Housing Listings Web App
 
 A simple full-stack web application for posting and browsing rental housing listings. Built using **React**, **Node.js**, **Express**, and **SQLite**, this project demonstrates backend API integration, database connectivity, and frontend form handling.
 
 ---
 
-## 🚀 Features
+## Features
 
-- Submit housing listings with:
-  - Title
-  - Description
-  - Rent
-  - Address
-  - Number of rooms
-  - Contact information
+- Submit housing listings with Title, Description, Rent, Address, Number of rooms and Contact information.
 - View a list of all submitted listings
 - Fully functional REST API connected to a relational database
 
