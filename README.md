@@ -31,12 +31,12 @@ git clone https://github.com/YOUR_USERNAME/Housing-app.git
 cd Housing-app
 
 #### Setting up backend
-> cd backend
-> npm install
-> node server.js
+- cd backend
+- npm install
+- node server.js
 
 #### Setting up frontend
-> cd frontend
-> npm install
-> npm start
+- cd frontend
+- npm install
+- npm start
 
