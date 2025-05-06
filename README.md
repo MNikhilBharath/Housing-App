@@ -37,7 +37,10 @@ cd Housing-app
 - npm install
 - npm start
 
+## Listing page to fill info
+
 ![image](https://github.com/user-attachments/assets/0f2a5482-290b-45f2-a3c3-c5b503d7d7e2)
 
+## Listings page to display the info from backend
 ![image](https://github.com/user-attachments/assets/dfa03ccd-5fe6-41e0-8693-02f243083c49)
 
