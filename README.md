@@ -17,8 +17,8 @@ A simple full-stack web application for posting and browsing rental housing list
 
 ## How to Run Locally
 
-> Prerequisites:
-> - Node.js & npm installed
+Prerequisites:
+- Node.js & npm installed
 
 ---
 
@@ -39,4 +39,8 @@ cd Housing-app
 - cd frontend
 - npm install
 - npm start
+
+![image](https://github.com/user-attachments/assets/0f2a5482-290b-45f2-a3c3-c5b503d7d7e2)
+
+![image](https://github.com/user-attachments/assets/dfa03ccd-5fe6-41e0-8693-02f243083c49)
 
